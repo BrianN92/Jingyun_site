@@ -1,50 +1,55 @@
 ---
 # Display name
-title: 吳健雄
+title: Jingyun Ning
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: dʒɪŋ ün niŋ
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jingyun 
+last_name: Ning
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏎
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant at LinkLab
+role: Team Leader of Vehicle Dynamics and Control
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: University of Virginia
+  url: ""
+- name: Cavalier Autonomous Racing
+  url: "https://autonomousracing.dev/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+  - Autonomous Racing
+  - Control Theory
+  - Dynamics Modeling
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Engineering
+      institution: University of Virginia
+      year: 2018
+    - course: MEng in Computer Engineering
+      institution: University of Virginia
+      year: 2016
+    - course: BSc in Automation
+      institution: Shanghai University of Engineering & Technology
+      year: 2011
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
